@@ -15,8 +15,7 @@ Learn Python fundamentals, improve my programming logic, and build a solid found
 
 ## Progress
 - [x] Day 01: Introduction
-- [ ] Day 02
-- [ ] Day 03
+
 
 ## Learning Highlights
 - Understanding what Python is and where it is commonly used
